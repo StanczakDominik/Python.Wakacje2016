@@ -26,6 +26,7 @@ na adresie typu `http://localhost:8888/` i wpisując ten adres w przeglądarkę 
 	* na windowsie to dowolne miejsce musi się niestety zawierać w C:\Użytkownicy\Nazwaużytkownika
 2. Odpalamy z konsoli `jupyter notebook` na linuxie (w wybranym wcześniej miejscu), na windowsie to samo z menu start
 3. notebook powinien być możliwy do znalezienia
+
 ### Przydatne jupyterowe skróty
 * SHIFT-ENTER: wykonuje komórkę i przechodzi do kolejnej
 * CTRL-SHIFT-P: pokazuje listę\szukajkę wszystkich możliwych komend z hotkeyami, dzięki czemu nie muszę wypisywać reszty ;)
